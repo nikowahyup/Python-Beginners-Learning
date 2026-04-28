@@ -1,2 +1,2 @@
 # Python-Beginners-Learning
-Ini adalah track record saya dalam belajar Python
+Ini adalah track record saya dalam belajar dasar-dasar Python
